@@ -45,5 +45,4 @@ All commands from `assignment-app/`:
 ---
 
 ## Submission
-
-Push this repo to: **https://github.com/Web8080/qa-tester-mern** (or submit a ZIP). Included: this README (setup + how to run tests), [REPORT.md](./REPORT.md) (strategy summary, bugs, coverage, recommendations), [TEST_STRATEGY.md](./TEST_STRATEGY.md), [TEST_CASES.md](./TEST_CASES.md), and automated tests in `assignment-app/`.
+ Included: this README (setup + how to run tests), [REPORT.md](./REPORT.md) (strategy summary, bugs, coverage, recommendations), [TEST_STRATEGY.md](./TEST_STRATEGY.md), [TEST_CASES.md](./TEST_CASES.md), and automated tests in `assignment-app/`.
