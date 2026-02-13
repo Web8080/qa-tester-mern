@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+assignment-app/node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+assignment-app/dist/
+assignment-app/build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+assignment-app/.env
+assignment-app/.env.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Test results
+test-results/
+playwright-report/
+coverage/
+.nyc_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
+assignment-app/test-results/
+assignment-app/playwright-report/
+
+# Temporary
+*.tmp
+.cache/
